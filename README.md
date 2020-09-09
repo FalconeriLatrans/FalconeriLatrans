@@ -4,7 +4,7 @@
 - Excel worksheets, most of them with VBA codes I wrote to automate my tasks at my work. Of course these are all empty files. I kept only the codes, formulas and design styles;
 - Android Mobile course exercises (Kotlin and Java);
 - Automation Engineering university exercises and projects (Java, Python, MATLAB, etc);
-- Arduino projects codes;
+- Arduino projects codes.
 
 <p><i>You can still find me at the following social media:</i><br></p>
 <a href="https://www.linkedin.com/in/rfreixeira/" rel="nofollow">
